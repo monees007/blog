@@ -27,22 +27,22 @@
         <copyright>2024 Manish Chandra</copyright>
     </footer>
 
-    <build-profile instance="wrs">
-        <sitemap priority="0.35" change-frequency="monthly"/>
-        <variables>
-            <noindex-content>false</noindex-content>
-            <product-web-url>https://www.jetbrains.com/help/writerside/</product-web-url>
-            <og-twitter>@onwriterside</og-twitter>
-            <og-image>https://resources.jetbrains.com/storage/products/writerside/img/meta/preview.png</og-image>
-            <images-prefix-override>https://resources.jetbrains.com/help/img/writerside/</images-prefix-override>
-        </variables>
-    </build-profile>
-    <build-profile instance="hi">
-        <variables>
-            <noindex-content>false</noindex-content>
-            <offline-docs>false</offline-docs>
-        </variables>
-    </build-profile>
+<!--    <build-profile instance="wrs">-->
+<!--        <sitemap priority="0.35" change-frequency="monthly"/>-->
+<!--        <variables>-->
+<!--            <noindex-content>false</noindex-content>-->
+<!--            <product-web-url>https://www.jetbrains.com/help/writerside/</product-web-url>-->
+<!--            <og-twitter>@onwriterside</og-twitter>-->
+<!--            <og-image>https://resources.jetbrains.com/storage/products/writerside/img/meta/preview.png</og-image>-->
+<!--            <images-prefix-override>https://resources.jetbrains.com/help/img/writerside/</images-prefix-override>-->
+<!--        </variables>-->
+<!--    </build-profile>-->
+<!--    <build-profile instance="hi">-->
+<!--        <variables>-->
+<!--            <noindex-content>false</noindex-content>-->
+<!--            <offline-docs>false</offline-docs>-->
+<!--        </variables>-->
+<!--    </build-profile>-->
     <build-profile instance="blog">
         <variables>
             <noindex-content>false</noindex-content>
