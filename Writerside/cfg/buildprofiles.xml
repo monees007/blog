@@ -6,8 +6,8 @@
         <download-title>Get Writerside</download-title>
         <showDownloadButton>true</showDownloadButton>
         <primary-color>strawberry</primary-color>
-        <header-logo>writerside.svg</header-logo>
-        <custom-favicons>https://www.jetbrains.com/icon-512.png</custom-favicons>
+<!--        <header-logo>writerside.svg</header-logo>-->
+<!--        <custom-favicons>https://www.jetbrains.com/icon-512.png</custom-favicons>-->
     </variables>
 
     <shortcuts>
