@@ -3,9 +3,9 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
-                 start-page="Default-topic.md">
+                 name="Manish Chandra"
+                 start-page="Listener-AI.md">
 
-    <toc-element topic="Default-topic.md"/>
     <toc-element topic="The-Virus.md"/>
+    <toc-element topic="Listener-AI.md"/>
 </instance-profile>
