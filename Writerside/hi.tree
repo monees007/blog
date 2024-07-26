@@ -4,8 +4,11 @@
 
 <instance-profile id="hi"
                  name="Manish Chandra"
-                 start-page="Listener-AI.md">
+                 start-page="Weekly-Current-Affairs.md">
 
+    <toc-element topic="Weekly-Current-Affairs.md"/>
+    <toc-element topic="Salient-Features-of-CRPC.md"/>
+    <toc-element topic="Reforms-in-Indian-Criminal-Justice-System.md"/>
     <toc-element topic="The-Virus.md"/>
     <toc-element topic="Listener-AI.md"/>
 </instance-profile>
