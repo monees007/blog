@@ -67,7 +67,7 @@ jobs:
 
       - name: Copy PWA files
         run: |
-          ls -al
+          ls -al dir
           echo "Adding PWA files..."
           cp manifest.json dir/
           cp service-worker.js dir/
