@@ -6,6 +6,7 @@
                  name="Manish Chandra"
                  start-page="Weekly-Current-Affairs.md">
 
+    <toc-element topic="Job-Crisis-in-India.md"/>
     <toc-element topic="Economic-Survey-Budget-2024.md"/>
     <toc-element topic="Weekly-Current-Affairs.md"/>
     <toc-element topic="Salient-Features-of-CRPC.md"/>

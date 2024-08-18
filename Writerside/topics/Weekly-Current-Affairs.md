@@ -1,11 +1,17 @@
 # Weekly Current Affairs
 
-## Week #1 / Class 1
- - [Reforms in Indian Criminal Justice System](Reforms-in-Indian-Criminal-Justice-System.md)
+## Class 1.1
+ - [Reforms in the Indian Criminal Justice System](Reforms-in-Indian-Criminal-Justice-System.md)
  - Motion of Thanks
  - Position of Speaker in India's Parliamentary Democracy
- - 75 years of NATO
+ - Seventy-five years of NATO
 
-## Week #1 / Class 2
+## Class 1.2
  - [Salient Features of CRPC](Salient-Features-of-CRPC.md)
 
+
+## Class 5.1
+ - Job Crisis in India
+ - Conflicts and issues related to the position of Governor
+ - NITI Aayog Relevance
+ - CBI: Juridiction and Powers

@@ -1,0 +1,21 @@
+{
+  "background_color": "#19191c",
+  "description": "Weekly Current Affairs | Manish Chandra",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Current Affairs",
+  "orientation": "any",
+  "scope": "https://monees007.github.io/blog/",
+  "short_name": "Current Affairs",
+  "start_url": "https://monees007.github.io/blog/weekly-current-affairs.html",
+  "theme_color": "#e8488b",
+  "icons": [
+    {
+      "src": "blog/logo.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    }
+  ],
+  "id": "monees007-blog",
+  "lang": "en"
+}
