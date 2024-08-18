@@ -83,11 +83,12 @@ jobs:
           cp service-worker.js dir/
           mkdir -p dir/icons/
           cp -r icons/ dir/icons/
+ 
           
           find dir -name "*.html" -exec sed -i '/<\/head>/i \
           <link rel="manifest" href="/manifest.json">\
           <meta name="theme-color" content="#000000">' {} \;
-  
+          
           find dir -name "*.html" -exec sed -i '/<\/body>/i \
           <script>\
           if ("serviceWorker" in navigator) {\
@@ -95,6 +96,7 @@ jobs:
           .then(function() { console.log("Service Worker Registered"); });\
           }\
           </script>' {} \;
+
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
