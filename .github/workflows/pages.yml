@@ -65,6 +65,16 @@ jobs:
       - name: Unzip artifact
         run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d dir
 
+      - name: Fetch PWA files from GitHub
+        run: |
+          echo "Fetching PWA files from GitHub..."
+          curl -o manifest.json https://raw.githubusercontent.com/monees007/blog/master/manifest.json
+          curl -o service-worker.js https://raw.githubusercontent.com/monees007/blog/master/service-worker.js
+          mkdir -p icons/
+          curl -o icons/icon-192x192.png https://raw.githubusercontent.com/monees007/blog/master/icons/android/android-launchericon-192-192.png
+          curl -o icons/icon-512x512.png https://raw.githubusercontent.com/monees007/blog/master/icons/android/android-launchericon-512x512.png
+
+
       - name: Copy PWA files
         run: |
           ls -al dir
