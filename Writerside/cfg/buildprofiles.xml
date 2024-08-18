@@ -5,7 +5,8 @@
         <download-page>https://monees007.github.io/portfolio</download-page>
         <download-title>Back to Portfolio</download-title>
         <showDownloadButton>true</showDownloadButton>
-        <primary-color>strawberry</primary-color>
+        <primary-color>emerald</primary-color>
+        <color-preset>soft</color-preset>
         <header-logo>my-avatar.png</header-logo>
         <custom-favicons>logo.ico</custom-favicons>
     </variables>
@@ -45,8 +46,8 @@
 <!--    </build-profile>-->
     <build-profile instance="blog">
         <variables>
-            <offline-docs>false</offline-docs>
             <noindex-content>false</noindex-content>
+            <offline-docs>true</offline-docs>
         </variables>
     </build-profile>
 </buildprofiles>
