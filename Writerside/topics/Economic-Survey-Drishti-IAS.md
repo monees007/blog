@@ -15,9 +15,7 @@
 > - Initially, it was a part of the budget documents.
 > - It Became a separate volume in 1964. 
 
-## What are the Key Takeaways from the Economic Survey for 2023–24?  
-
-### State of the Economy:  
+## State of the Economy
 
 **Real GDP Growth**: India’s real GDP grew by 8.2% in FY24, surpassing the 8% mark in three out of four quarters of FY24.  
 
@@ -29,7 +27,8 @@
 
 **Capital Spending**: The government progressively increased capital expenditure and provided free food grains to 81.4 crore people.
 
-### Monetary Management and Financial Intermediation – Stability is the Watchword
+## Monetary Management and Financial Intermediation 
+_Stability is the Watchword_
 
 **Monetary Policy**: The RBI maintained a steady policy repo rate at 6.5% throughout FY24.  
 Consequently, Core inflation declined by around 4% from April 2022 to June 2024.
@@ -47,9 +46,9 @@ Consequently, Core inflation declined by around 4% from April 2022 to June 2024.
 
 **Insurance and Microfinance**: India is poised to become one of the fastest-growing insurance markets and has the second-largest microfinance sector globally. 
 
-### Prices and Inflation – Under Control
+## Prices and Inflation
+_Under Control_
 
-#### Inflation Trends:  
 29 States and Union Territories recorded inflation below 6% in FY24.
 
 Core services inflation eased to a nine-year low in FY24
@@ -60,27 +59,35 @@ Price cuts on LPG, petrol, and diesel helped in keeping retail fuel inflation re
 
 **Future Projections**: The RBI forecasts inflation to decline to 4.5% in FY25 and 4.1% in FY26. 
 
-### External Sector – Stability Amid Plenty
+## External Sector 
+_Stability Amid Plenty_
 
-#### Exports 
+### Exports 
 India’s services exports grew by 4.9% to USD 341.1 billion in FY24, with significant contributions from IT/software and other business services.
-#### Remittances
+
+### Remittances
 India remains the top global recipient, with remittances totalling USD 120 billion in 2023.
-#### External Debt
+
+### External Debt
 India’s external debt to a GDP ratio stood at 18.7% as of March 2024.
-#### Logistics Performance
+
+### Logistics Performance
 India's rank in the World Bank Logistics Index improved to 38th in 2023 from 44th in 2014.
-#### Tourism
+
+### Tourism
 India’s share in world tourism receipts increased from 1.38% in 2021 to 1.58% in 2022. 
 
-### Medium-Term Outlook – A Growth Strategy for New India: 
+## Medium-Term Outlook 
+_A Growth Strategy for New India_
 
-#### Growth Strategy
+### Growth Strategy
 To sustain a 7%+ growth rate, a tripartite compact between the Union Government, State Governments, and the private sector is required.
-#### Key Focus Areas
+
+### Key Focus Areas
 Job and skill creation, agriculture, MSME bottlenecks, green transition, and addressing the education-employment gap are crucial for medium-term growth. 
 
-### Climate Change and Energy Transition – Dealing with Trade-Offs:
+## Climate Change and Energy Transition 
+_Dealing with Trade-Offs_
 
 **Renewable Energy**As of May 2024, non-fossil sources accounted for 45.4% of installed electricity generation capacity.
 
@@ -88,7 +95,8 @@ Job and skill creation, agriculture, MSME bottlenecks, green transition, and add
 
 **Investment in Clean Energy**The clean energy sector attracted investments of Rs 8.5 lakh crore between 2014 and 2023.
 
-### Social Sector – Benefits that Empower:
+## Social Sector 
+_Benefits that Empower_
 
 **Welfare Expenditure**Grew at a CAGR of 12.8% between FY18 and FY24.
 
@@ -98,7 +106,9 @@ Job and skill creation, agriculture, MSME bottlenecks, green transition, and add
 
 **Rural Infrastructure** 15.14 lakh km of roads constructed under the Gram Sadak Yojana since 2014–15.
 
-###  Employment and Skill Development – Towards Quality:
+##  Employment and Skill Development
+_Towards Quality_
+
 The Unemployment Rate Declined to 3.2% in 2022–23.  
 
 Net payroll additions under the Employees' Provident Fund Organisation (EPFO) have more than doubled to 13.15 million in the past five years, indicating robust growth in formal employment.
@@ -108,7 +118,8 @@ Net payroll additions under the Employees' Provident Fund Organisation (EPFO) ha
 **Female Labor Force Participation**Rising for six consecutive years (37.0% currently).
 
 **Gig Economy**Workforce expected to reach 2.35 crore by 2029–30.
-### Agriculture and Food Management  
+
+## Agriculture and Food Management  
 **Agricultural Growth**The sector registered an average annual growth rate of 4.18% at constant prices over the last five years.
 
 **Credit and Micro Irrigation**Credit disbursed to agriculture amounted to Rs 22.84 lakh crore.  
@@ -116,7 +127,8 @@ Net payroll additions under the Employees' Provident Fund Organisation (EPFO) ha
 Ninety lakh hectares covered under micro-irrigation since 2015–16.
 
 **Kisan Credit Cards**7.5 crore cards issued with a Rs 9.4 lakh crore limit.
-### Industry – Small and Medium Matters:
+
+## Industry – Small and Medium Matters
 **Industrial Growth**Economic growth of 8.2% in FY24 is supported by an industrial growth rate of 9.5%.
 
 **Pharmaceutical and Clothing Sectors**India’s pharmaceutical market is the world’s third-largest by volume, valued at USD 50 billion.  
@@ -126,7 +138,8 @@ It is the second-largest clothing manufacturer globally, with textile and appare
 **Electronics Manufacturing**India’s electronics sector accounts for an estimated 3.7% of the global market share.  
 
 Domestic production increased to Rs 8.22 lakh crore, with exports rising to Rs 1.9 lakh crore in FY23.
-### Services – Fuelling Growth Opportunities:
+
+## Services – Fuelling Growth Opportunities
 **Sector Contribution**The service sector accounted for 55% of the economy in FY24 and grew by 7.6% during the year.
 
 **Digital Services**India's share in global digitally delivered services exports increased to 6% in 2023.
@@ -139,7 +152,7 @@ Aviation: 15% YoY increase in total air passengers in FY24.
 
 **Start-ups**Increased from around 2,000 in 2014 to approximately 31,000 in 2023.
 
-### Infrastructure – Lifting Potential Growth:
+## Infrastructure – Lifting Potential Growth
 **National Highways**The pace of National Highways construction increased from 11.7 km per day in FY14 to approximately 34 km per day by FY24.
 
 **Railways**Capital expenditure on Railways increased by 77% over the past five years.
@@ -155,7 +168,8 @@ Aviation: 15% YoY increase in total air passengers in FY24.
 **Telecommunication**The overall teledensity (number of telephones per 100 people) in India increased from 75.2% in March 2014 to 85.7% in March 2024.  
 
 The internet density also increased to 68.2% in March 2024.
-### Climate Change and India:  
+
+## Climate Change and India:  
 Current global strategies for climate change are flawed and not universally applicable.
 
 The Western approach does not seek to address the root of the problem, i.e. overconsumption, but rather chooses to substitute the means to achieve overconsumption.
