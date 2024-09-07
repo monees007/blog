@@ -22,30 +22,49 @@
         <social type="instagram" href="https://instagram.com/the_manishh_chandra">Instagram</social>
         <social type="twitter" href="https://twitter.com/monees007">X</social>
 
-<!--        <link href="https://youtrack.jetbrains.com/issues/WRS">Issue tracker</link>-->
+        <!--        <link href="https://youtrack.jetbrains.com/issues/WRS">Issue tracker</link>-->
 
 
         <copyright>2024 Manish Chandra</copyright>
     </footer>
 
-<!--    <build-profile instance="wrs">-->
-<!--        <sitemap priority="0.35" change-frequency="monthly"/>-->
-<!--        <variables>-->
-<!--            <noindex-content>false</noindex-content>-->
-<!--            <product-web-url>https://www.jetbrains.com/help/writerside/</product-web-url>-->
-<!--            <og-twitter>@onwriterside</og-twitter>-->
-<!--            <og-image>https://resources.jetbrains.com/storage/products/writerside/img/meta/preview.png</og-image>-->
-<!--            <images-prefix-override>https://resources.jetbrains.com/help/img/writerside/</images-prefix-override>-->
-<!--        </variables>-->
-<!--    </build-profile>-->
-<!--    <build-profile instance="hi">-->
-<!--        <variables>-->
-<!--            <noindex-content>false</noindex-content>-->
-<!--            <offline-docs>false</offline-docs>-->
-<!--        </variables>-->
-<!--    </build-profile>-->
+
+    <!--    <build-profile instance="wrs">-->
+    <!--        <sitemap priority="0.35" change-frequency="monthly"/>-->
+    <!--        <variables>-->
+    <!--            <noindex-content>false</noindex-content>-->
+    <!--            <product-web-url>https://www.jetbrains.com/help/writerside/</product-web-url>-->
+    <!--            <og-twitter>@onwriterside</og-twitter>-->
+    <!--            <og-image>https://resources.jetbrains.com/storage/products/writerside/img/meta/preview.png</og-image>-->
+    <!--            <images-prefix-override>https://resources.jetbrains.com/help/img/writerside/</images-prefix-override>-->
+    <!--        </variables>-->
+    <!--    </build-profile>-->
+    <!--    <build-profile instance="hi">-->
+    <!--        <variables>-->
+    <!--            <noindex-content>false</noindex-content>-->
+    <!--            <offline-docs>false</offline-docs>-->
+    <!--        </variables>-->
+    <!--    </build-profile>-->
     <build-profile instance="blog">
         <variables>
+            <include-in-head>
+                <![CDATA[
+        <link rel="manifest" href="/manifest.json">
+        <meta name="theme-color" content="#000000">
+        ]]>
+            </include-in-head>
+            <include-after-body>
+                <![CDATA[
+        <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/service-worker.js')
+            .then(function() { console.log('Service Worker Registered'); });
+        }
+        </script>
+        ]]>
+            </include-after-body>
+
+
             <noindex-content>false</noindex-content>
             <offline-docs>true</offline-docs>
         </variables>
