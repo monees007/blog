@@ -128,7 +128,8 @@ Ninety lakh hectares covered under micro-irrigation since 2015–16.
 
 **Kisan Credit Cards**7.5 crore cards issued with a Rs 9.4 lakh crore limit.
 
-## Industry – Small and Medium Matters
+## Industry
+_Small and Medium Matters_
 **Industrial Growth**Economic growth of 8.2% in FY24 is supported by an industrial growth rate of 9.5%.
 
 **Pharmaceutical and Clothing Sectors**India’s pharmaceutical market is the world’s third-largest by volume, valued at USD 50 billion.  
@@ -139,7 +140,8 @@ It is the second-largest clothing manufacturer globally, with textile and appare
 
 Domestic production increased to Rs 8.22 lakh crore, with exports rising to Rs 1.9 lakh crore in FY23.
 
-## Services – Fuelling Growth Opportunities
+## Services
+_Fuelling Growth Opportunities_
 **Sector Contribution**The service sector accounted for 55% of the economy in FY24 and grew by 7.6% during the year.
 
 **Digital Services**India's share in global digitally delivered services exports increased to 6% in 2023.
@@ -152,7 +154,8 @@ Aviation: 15% YoY increase in total air passengers in FY24.
 
 **Start-ups**Increased from around 2,000 in 2014 to approximately 31,000 in 2023.
 
-## Infrastructure – Lifting Potential Growth
+## Infrastructure
+_Lifting Potential Growth_
 **National Highways**The pace of National Highways construction increased from 11.7 km per day in FY14 to approximately 34 km per day by FY24.
 
 **Railways**Capital expenditure on Railways increased by 77% over the past five years.
@@ -169,7 +172,7 @@ Aviation: 15% YoY increase in total air passengers in FY24.
 
 The internet density also increased to 68.2% in March 2024.
 
-## Climate Change and India:  
+## Climate Change and India  
 Current global strategies for climate change are flawed and not universally applicable.
 
 The Western approach does not seek to address the root of the problem, i.e. overconsumption, but rather chooses to substitute the means to achieve overconsumption.
@@ -178,6 +181,6 @@ A one-size-fits-all approach will not work, and developing countries need to be 
 
 India’s ethos emphasises a harmonious relationship with nature, in contrast to the culture of overconsumption in other parts of the developed world.
 
-Shifting towards ‘traditional multi-generational households’ could pave the way towards sustainable housing.
+Shifting towards _‘traditional multi-generational households’_ could pave the way towards sustainable housing.
 
 “Mission LiFE” focuses on human-nature harmony, promoting mindful consumption rather than the overconsumption that lies at the root of the global climate change problem. 
