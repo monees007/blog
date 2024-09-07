@@ -3,15 +3,15 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Manish Chandra"
+                 name="Current Affairs Notes"
                  start-page="Weekly-Current-Affairs.md">
 
+    <toc-element topic="India-s-Food-Nutritional-Security-Challenges.md"/>
+    <toc-element topic="Economic-Survey-Drishti-IAS.md"/>
     <toc-element topic="Job-Crisis-in-India.md"/>
     <toc-element topic="Economic-Survey-Budget-2024.md"/>
     <toc-element topic="Weekly-Current-Affairs.md"/>
     <toc-element topic="Salient-Features-of-CRPC.md"/>
     <toc-element topic="Reforms-in-Indian-Criminal-Justice-System.md"/>
     <toc-element topic="Growing-importance-of-Russia-in-Global-Geopolitics.md"/>
-    <toc-element topic="The-Virus.md"/>
-    <toc-element topic="Listener-AI.md"/>
 </instance-profile>

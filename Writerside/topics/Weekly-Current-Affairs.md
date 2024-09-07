@@ -16,6 +16,8 @@
 
 ## Week #3
  - Issues related to CRPC-125 (BNSS-144) & Constitutional Debate Article 25.
+
+[//]: # ( ToDO - Attend the lectures)
  - CBI and its jurisdiction.
  - Reforms in All India Services.
  - Finance Commission
@@ -24,6 +26,7 @@
 ## Week #4
  - State of the Indian Economy
  - [Economic Survey &amp; Budget 2024](Economic-Survey-Budget-2024.md)
+ - [Economic Survey Drishti IAS](Economic-Survey-Drishti-IAS.md)
  - Budget at a Glance
 
 
@@ -34,3 +37,19 @@
  - CBI: Juridiction and Powers
 
 
+## Week #6
+ - Sub-Categorization of SC/ST 
+ - Political Turmoil in Bangladesh
+ - Ecological Challenges in Western Ghat
+   - Madhav Gadgil Report
+   - Wayanad Landslide
+ - [India's Food & Nutritional Security Challenges](India-s-Food-Nutritional-Security-Challenges.md)
+ - Constitutional Position of Governor
+ - Position of Leutinent Governor and Chief Minister. 69th Amendment of the Indian Constitution
+ - Importance of Decadal Census.
+ - Socio-Economic Caste Census
+
+## Week 7
+ - Mental Health Care Problems
+ - The Growing problem of Food Inflation
+ - Capital Market Reforms, SEBI
